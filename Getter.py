@@ -23,7 +23,7 @@ titlelist = []
 counter = 0
 for title in texts:
     date = time.strftime("%Y-%m-%dT%H:%M:%S.0Z")
-    titlelist.append({'uid':counter,'updateDate':date,'titleText':"Title " + str(counter),'mainText':title, 'redirectionURL': urls[counter]})
+    titlelist.append({'uid':counter,'updateDate':date,'titleText':title,'mainText':title, 'redirectionURL': urls[counter]})
     counter += 1
 
 #checks for version control
