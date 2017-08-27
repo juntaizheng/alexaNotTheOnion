@@ -3,7 +3,7 @@ from credentials import AWS_ACCESS_KEY, AWS_BUCKET_NAME, AWS_SECRET_KEY, CLIENT_
 import time
 import io
 import json
-
+python Getter.py
 #gain authorization to scan reddit through praw
 reddit = praw.Reddit(client_id= CLIENT_ID,
                      client_secret=CLIENT_SECRET,
