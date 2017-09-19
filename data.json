@@ -1,16 +1,23 @@
 [
     {
-        "mainText": "Ryanair tries to appease passengers with list of flights cancelled until Thursday",
-        "redirectionURL": "https://www.theguardian.com/business/2017/sep/17/ryanair-publishes-list-150-flights-cancelled-three-days-angry-passengers",
-        "titleText": "Ryanair tries to appease passengers with list of flights cancelled until Thursday",
+        "mainText": "Woman shouted ‘If you can’t beat them, eat them’ after biting detective",
+        "redirectionURL": "https://www.irishtimes.com/news/crime-and-law/courts/district-court/woman-shouted-if-you-can-t-beat-them-eat-them-after-biting-detective-1.3225520",
+        "titleText": "Woman shouted ‘If you can’t beat them, eat them’ after biting detective",
         "uid": 0,
-        "updateDate": "2017-09-18T10:36:25.0Z"
+        "updateDate": "2017-09-19T14:31:03.0Z"
     },
     {
-        "mainText": "Warriors news: Kevin Durant seems to have forgotten switching accounts before defending himself on Twitter",
-        "redirectionURL": "https://clutchpoints.com/warriors-kevin-durant-seems-forgotten-switching-accounts-before-defending-twitter/",
-        "titleText": "Warriors news: Kevin Durant seems to have forgotten switching accounts before defending himself on Twitter",
+        "mainText": "Losers are more likely to believe in conspiracy theories, study finds",
+        "redirectionURL": "http://www.psypost.org/2017/09/losers-likely-believe-conspiracy-theories-study-finds-49694",
+        "titleText": "Losers are more likely to believe in conspiracy theories, study finds",
         "uid": 1,
-        "updateDate": "2017-09-18T10:36:25.0Z"
+        "updateDate": "2017-09-19T14:31:03.0Z"
+    },
+    {
+        "mainText": "Lifelock offers to protect you from the Equifax breach — by selling you services provided by Equifax",
+        "redirectionURL": "http://www.latimes.com/business/hiltzik/la-fi-hiltzik-lifelock-equifax-20170918-story.html",
+        "titleText": "Lifelock offers to protect you from the Equifax breach — by selling you services provided by Equifax",
+        "uid": 2,
+        "updateDate": "2017-09-19T14:31:03.0Z"
     }
 ]
