@@ -1,16 +1,23 @@
 [
     {
-        "mainText": "Wisconsin man gets locked in beer cooler, starts drinking",
-        "redirectionURL": "http://www.foxnews.com/food-drink/2017/10/27/wisconsin-man-gets-locked-in-beer-cooler-starts-drinking.html",
-        "titleText": "Wisconsin man gets locked in beer cooler, starts drinking",
+        "mainText": "Arizona man selling ranch for $5M due to constant ‘alien attacks’",
+        "redirectionURL": "https://globalnews.ca/news/3829422/alien-ranch-for-sale",
+        "titleText": "Arizona man selling ranch for $5M due to constant ‘alien attacks’",
         "uid": 0,
-        "updateDate": "2017-10-27T21:18:17.0Z"
+        "updateDate": "2017-10-28T22:07:36.0Z"
     },
     {
-        "mainText": "‘If it was me’ ... Owyhee County murder suspect appears to discuss crime on Facebook",
-        "redirectionURL": "http://www.idahostatesman.com/news/local/article181191701.html",
-        "titleText": "‘If it was me’ ... Owyhee County murder suspect appears to discuss crime on Facebook",
+        "mainText": "Halifax music fest apologizes for 'overt racism' at Polaris winner's concert",
+        "redirectionURL": "http://www.cbc.ca/news/entertainment/lido-pimienta-halifax-festival-1.4375115",
+        "titleText": "Halifax music fest apologizes for 'overt racism' at Polaris winner's concert",
         "uid": 1,
-        "updateDate": "2017-10-27T21:18:17.0Z"
+        "updateDate": "2017-10-28T22:07:36.0Z"
+    },
+    {
+        "mainText": "Police post 'pumpkin lineup' after recovering stolen squash",
+        "redirectionURL": "http://abcnews.go.com/Weird/wireStory/police-post-pumpkin-lineup-recovering-stolen-squash-50730943",
+        "titleText": "Police post 'pumpkin lineup' after recovering stolen squash",
+        "uid": 2,
+        "updateDate": "2017-10-28T22:07:36.0Z"
     }
 ]
